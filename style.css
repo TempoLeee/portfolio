@@ -180,5 +180,11 @@ nav ul li a:hover::after {
 
 .work:hover .layer{
     height: 100%;
+    
 }
 
+@media (max-width: 768px){
+    body {
+        padding: 40px 40px;
+    }
+}
